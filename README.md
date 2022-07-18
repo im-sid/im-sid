@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/im-sid/im-sid/blob/main/New%20folder/j.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Subham</h1>
-<h3 align="center">A self-taught learner from India </h3>
+<h3 align="center">An aspirant, student, self-taught learner from India </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-sid&label=Profile%20views&color=0e75b6&style=flat" alt="im-sid" /> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/im-sid/im-sid/blob/main/New%20folder/coder.gif?raw=true">
 
