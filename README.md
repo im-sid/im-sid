@@ -24,10 +24,8 @@
 <p align="left">
 <a href="https://twitter.com/sd_indic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sd_indic" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sd-indic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sd-indic" height="30" width="40" /></a>
-</p>
 <a href="https://leetcode.com/im-sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sd-indic" height="30" width="40" /></a>
-</p>
-<a href="https://geeksforgeeks.com/id-indic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sd-indic" height="30" width="40" /></a>
+<a href="https://geeksforgeeks.org/id-indic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sd-indic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
