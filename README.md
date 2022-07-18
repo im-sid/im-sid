@@ -9,9 +9,9 @@
  
 - 🔭 I’m currently working on **Skill Development**
 
-- 🌱 I’m currently learning **DSA and Web Dev.**
+- 🌱 I’m currently learning **DSA & Web Dev.**
 
-- 👨‍💻 All of my projects are available at my PC
+- 👨‍💻 My projects are available at my PC
 
 - 💬 Ask me about anything
 
