@@ -8,19 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/sd_indic" target="blank"><img src="https://img.shields.io/twitter/follow/sd_indic?logo=twitter&style=for-the-badge" alt="sd_indic" /></a> </p>
 
-- 🔭 I’m currently working on **AI-ML**
+- 🔭 I’m currently working on **Skill Development**
 
-- 🌱 I’m currently learning **DSA and NodeJS**
+- 🌱 I’m currently learning **DSA and Web Dev.**
 
-- 👨‍💻 All of my projects are available at [#](#)
+- 👨‍💻 All of my projects are available at my PC
 
-- 📝 I regularly write articles on [#](#)
-
-- 💬 Ask me about **#**
+- 💬 Ask me about anything
 
 - 📫 How to reach me **#**
-
-- 📄 Know about my experiences [#](#)
 
 - ⚡ Fun fact **#**
 
