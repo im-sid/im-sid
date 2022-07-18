@@ -7,7 +7,7 @@
 
  ⚠ About Me :
  
-- 🔭 I’m currently working on **Skill Development**
+- 🔭 I’m currently working on **Skill Dev.**
 
 - 🌱 I’m currently learning **DSA & Web Dev.**
 
