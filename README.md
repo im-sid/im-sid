@@ -37,6 +37,20 @@ I’m Pala Siddeswara Reddy, a B.Tech Computer Science student at MVGR College o
 
 ---
 
+## 🤖 AI Coding & Productivity Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0052CC?style=for-the-badge)
+![Qwen](https://img.shields.io/badge/Qwen-AE00FF?style=for-the-badge)
+![Grok](https://img.shields.io/badge/Grok-FF6600?style=for-the-badge)
+![Kiro](https://img.shields.io/badge/Kiro%20AI-6A5ACD?style=for-the-badge)
+![Windsurf](https://img.shields.io/badge/Windsurf-00A8E8?style=for-the-badge)
+![Blackbox AI](https://img.shields.io/badge/Blackbox%20AI-121212?style=for-the-badge)
+![Z AI](https://img.shields.io/badge/Z%20AI-5A00FF?style=for-the-badge)
+
+---
+
 ## 🛢️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -73,6 +87,7 @@ I’m Pala Siddeswara Reddy, a B.Tech Computer Science student at MVGR College o
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=im-sid&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
